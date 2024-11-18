@@ -1,0 +1,13 @@
+# Taps
+tap 'homebrew/bundle'
+
+# Binaries
+brew 'git'
+brew 'grep'
+brew 'htop'
+
+# Apps 
+cask 'drawio'
+cask 'firefox'
+cask 'google-chrome'
+cask 'brave-browser'
