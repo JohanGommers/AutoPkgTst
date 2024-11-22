@@ -10,3 +10,5 @@ brew 'htop'
 cask 'firefox'
 cask 'google-chrome'
 cask 'brave-browser'
+
+# just some comment
